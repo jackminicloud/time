@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"golang.org/x/net/context"
+	"github.com/jackminicloud/net/context"
 )
 
 func TestLimit(t *testing.T) {
